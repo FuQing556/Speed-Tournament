@@ -1,0 +1,54 @@
+# Unity generated state
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Bb]uild/
+/[Bb]uilds/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/LocalTools/
+/SourceAudio/
+
+# Local IDE state
+/.vs/
+/.idea/
+/.vscode/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+sysinfo.txt
+.DS_Store
+Thumbs.db
+
+# Signing credentials and local secrets are never source assets
+*.keystore
+*.jks
+*.p12
+*.pfx
+*.pem
+*.key
+.env
+.env.*
+!.env.example
+credentials.json
+
+# Binaries are delivered separately from source history
+*.apk
+*.aab
+*.symbols.zip
+
+# Machine-specific generated performance test metadata
+/Assets/Resources/PerformanceTestRunInfo.json
+/Assets/Resources/PerformanceTestRunInfo.json.meta
