@@ -25,6 +25,8 @@ Unity 制作的横屏单机小球竞速游戏。六条车道、六个角色、�
 
 本地 APK 输出位置：`Builds/Android/SpeedTournament-0.1.0-arm64.apk`。
 
+重复打包可用菜单 **Speed Tournament → Build Android APK**，或 Unity 命令行方法 `SpeedTournament.Editor.AndroidBuild.BuildApk`。构建脚本会输出 `Builds/Android/build-summary.json`。
+
 当前交付为侧载测试包，使用本机默认测试签名，不是商店正式上架包。正式发布需要另外设置持久的发布签名与审核配置。签名密钥、安装包及符号文件不进入源码历史。
 
 ## 目录

@@ -10,6 +10,7 @@
 /[Rr]ecordings/
 /LocalTools/
 /SourceAudio/
+/.utmp/
 
 # Local IDE state
 /.vs/
@@ -52,3 +53,5 @@ credentials.json
 # Machine-specific generated performance test metadata
 /Assets/Resources/PerformanceTestRunInfo.json
 /Assets/Resources/PerformanceTestRunInfo.json.meta
+/Assets/Resources/PerformanceTestRunSettings.json
+/Assets/Resources/PerformanceTestRunSettings.json.meta
