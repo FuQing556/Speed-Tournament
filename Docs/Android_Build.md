@@ -1,5 +1,15 @@
 # Android 构建与安装
 
+## 本次构建结果（2026-09-07）
+
+- 最终构建成功：0 错误、3 警告，约 126 秒。
+- APK 大小：92,676,610 字节（约 88.4 MiB）。调试符号另存，不计入 APK 大小。
+- Android APK Signature Scheme v2 校验通过；清单确认包名、ARM64、最低 API 26、目标 API 36。
+- 发布裁剪结果确认保留 SphereCollider、CapsuleCollider 和 BoxCollider。
+- SHA-256：`2243185C946751BAC5074EF7D78A7698162F54871E032C70D4B8F68656057550`。
+- 当前没有连接手机，尚未进行 APK 真机安装和运行测试。
+- 完整摘要保存在本地 `Builds/Android/build-summary.json`。
+
 ## 环境与配置
 
 - Unity 6000.6.0f1 + 对应版本 Android Build Support、SDK、NDK、OpenJDK。
